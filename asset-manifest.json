@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Yernartem/react-sneakers/static/css/main.5e5dce19.css",
-    "main.js": "/Yernartem/react-sneakers/static/js/main.7454f94d.js",
+    "main.js": "/Yernartem/react-sneakers/static/js/main.3017cf26.js",
     "index.html": "/Yernartem/react-sneakers/index.html",
     "main.5e5dce19.css.map": "/Yernartem/react-sneakers/static/css/main.5e5dce19.css.map",
-    "main.7454f94d.js.map": "/Yernartem/react-sneakers/static/js/main.7454f94d.js.map"
+    "main.3017cf26.js.map": "/Yernartem/react-sneakers/static/js/main.3017cf26.js.map"
   },
   "entrypoints": [
     "static/css/main.5e5dce19.css",
-    "static/js/main.7454f94d.js"
+    "static/js/main.3017cf26.js"
   ]
 }
