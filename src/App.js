@@ -106,15 +106,15 @@ const [isLoading,setIsLoading]=useState(true)
       onAddToCart={onAddToCart} 
       onAddToFavorite={onAddToFavorite} 
       isLoading={isLoading}
-      />} path="/" exact> 
+      />} path="" exact> 
       </Route> 
       </Routes>
        <Routes>
-      <Route element={<Favorites items={favorites} onAddToFavorite={onAddToFavorite} />} path="/favorites" exact> 
+      <Route element={<Favorites items={favorites} onAddToFavorite={onAddToFavorite} />} path="favorites" exact> 
       </Route> 
       </Routes>
       <Routes>
-      <Route element={<Orders />} path="/orders" exact> 
+      <Route element={<Orders />} path="orders" exact> 
       </Route> 
       </Routes>
 </div>
