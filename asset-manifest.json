@@ -1,22 +1,26 @@
 {
   "files": {
     "main.css": "/react-sneakers/static/css/main.5e5dce19.css",
-    "main.js": "/react-sneakers/static/js/main.e341916c.js",
+    "main.js": "/react-sneakers/static/js/main.afc91621.js",
     "static/media/image_logo.svg": "/react-sneakers/static/media/image_logo.dd4e1c171c8fb40cd47b691265c99cae.svg",
     "static/media/completed-order.jpg": "/react-sneakers/static/media/completed-order.980b2eede83de46880c4.jpg",
     "static/media/empty-cart.jpg": "/react-sneakers/static/media/empty-cart.bf1db0c00e846da0ec24.jpg",
+    "static/media/btn-checked.svg": "/react-sneakers/static/media/btn-checked.890c21e6e092e231b04d7f8d3b23767a.svg",
+    "static/media/unliked.svg": "/react-sneakers/static/media/unliked.dbddb85a65c80405e2d8ac198b59ea70.svg",
     "static/media/heart.svg": "/react-sneakers/static/media/heart.31c528b014374dd8bafb45d68779796e.svg",
+    "static/media/liked.svg": "/react-sneakers/static/media/liked.553d151b49e111459401445d4a6d4f19.svg",
     "static/media/user.svg": "/react-sneakers/static/media/user.381202f7e3edbc1a00b14fbd5e529a32.svg",
     "static/media/cart.svg": "/react-sneakers/static/media/cart.5113b08fb682dc25f3856ef704a6c05d.svg",
     "index.html": "/react-sneakers/index.html",
     "static/media/search.svg": "/react-sneakers/static/media/search.48c52bf5d459537e27c07f88eb08c050.svg",
     "static/media/btn-remove.svg": "/react-sneakers/static/media/btn-remove.b1fef0aa93fbf25374f4991d23f900d8.svg",
+    "static/media/btn-plus.svg": "/react-sneakers/static/media/btn-plus.b88e94c67ea7ac0cfa69033241c96b8c.svg",
     "static/media/arrow.svg": "/react-sneakers/static/media/arrow.fc3222511ec5a224a4abf3bbf4c2566f.svg",
     "main.5e5dce19.css.map": "/react-sneakers/static/css/main.5e5dce19.css.map",
-    "main.e341916c.js.map": "/react-sneakers/static/js/main.e341916c.js.map"
+    "main.afc91621.js.map": "/react-sneakers/static/js/main.afc91621.js.map"
   },
   "entrypoints": [
     "static/css/main.5e5dce19.css",
-    "static/js/main.e341916c.js"
+    "static/js/main.afc91621.js"
   ]
 }
